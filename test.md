@@ -8,3 +8,4 @@ on next branch
 commit v1 next
 v1 c2 next
 v1 c1 release
+v1 c1 bug/issue35
