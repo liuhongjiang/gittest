@@ -16,3 +16,4 @@ v2 c1 next
 v2 c2 next
 
 v2 c1 release
+v2 c2 release
