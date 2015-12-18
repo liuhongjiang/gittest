@@ -15,7 +15,6 @@ v1 c1 bug/issue35
 v2 c1 next
 v2 c2 next
 v2 c3 next
-cherry pick for featur/don't-see-in-future branch
 v2 c4 next
 
 v2 c1 release
@@ -36,3 +35,5 @@ some commit 2
 
 some commit 3
 master
+
+feature/a
