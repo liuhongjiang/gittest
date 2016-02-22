@@ -1,0 +1,3 @@
+[submodule "git-test-submodules"]
+	path = git-test-submodules
+	url = git@github.com:liuhongjiang/git-test-submodules.git
